@@ -2,8 +2,10 @@
 
 Anaglyphic glasses required to enjoy this 3D image :) (run 'python3 play.py'). The code could not get any simpler.
 
+
 ![Whoa 1](./pics/Whoa.png)
 ![Whoa 2](./pics/Whoa02.png)
+![portrait](./pics/portrait.jpg)
 
 Or if you want to see modified [solar system](https://en.wikipedia.org/wiki/Solar_System) (numbers modified in order to show something nice). 3D math is heavily flawed as well, just for fun purposes. Run 'python3 play03.py'.
 
